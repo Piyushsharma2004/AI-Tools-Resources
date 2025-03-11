@@ -24,17 +24,12 @@ Add to readme list:
 
 <h1 align="center">
 	🔮 Awesome AI Agents
-	<p align="center">
-		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
-			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
-		</a>
-		<a href="https://twitter.com/e2b" target="_blank">
-			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
-		</a>
-	</p>
+	
+		
+	
 </h1>
 <h3 align="center">
-  Add <a href="https://e2b.dev/docs?ref=awesome-sdks">Code Interpreter</a> to your AI App
+  Add <a href="https://e2b.dev/docs?ref=awesome-sdks">Code Interpreter</a> to your AI App.it is good platform
 </h3>
 
 <h5 align="center">🌟 <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
@@ -44,8 +39,8 @@ Add to readme list:
 
 Welcome to our list of AI agents.
 We structured the list into two parts:
-- [Open source projects](#open-source-projects)
-- [Closed-source projects and companies](#closed-source-projects-and-companies)
+- Open source projects
+- Closed-source projects and companies
   
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
 
